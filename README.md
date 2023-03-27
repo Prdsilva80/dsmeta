@@ -231,8 +231,6 @@ java.runtime.version=17
 yarn add axios@0.27.2
 ```
 
-- **COMMIT: Axios, useEffect first request**
-
 ## Passo: Listagem de vendas
 
 Definição da BASE_URL:
