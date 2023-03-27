@@ -224,9 +224,6 @@ java.runtime.version=17
 - Integrar back end e front end
 - Implantar o front end
 
-## AVISO: as aulas ficarão disponíveis somente até domingo às 23h59
-
-# Checklist
 
 ## Passo: Primeira requisição com Axios e useEffect
 
